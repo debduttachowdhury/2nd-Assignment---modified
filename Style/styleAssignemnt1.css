@@ -1,0 +1,168 @@
+*{
+
+    margin: 0%;
+    padding: 0%;
+}
+
+
+body{ 
+
+    background-size: cover;
+}
+
+/* Hedcontent starts here */
+header{
+
+background-color: aquamarine;
+
+}
+
+.head-tag{
+
+    float: right;
+    margin-top: 44px;
+    margin-right: 35px;
+
+}
+
+.head-tag a{
+
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border: 2px solid blue;
+    padding: 3px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.head-tag a:hover{
+
+    background-color: bisque;
+    color: black;
+    transition: 0.5s ease-in-out;
+}
+
+/* Hedcontent end here */
+
+/* Body Content */
+.aboutKerala{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:xx-small;
+    font-style: oblique;
+    color: black;
+    border: 2px solid blue;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 0px;
+    padding-left: 5px;
+    text-align: justify;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-bottom: 0%;
+    margin-right: 3%;
+    background-color: rgb(127, 255, 140);
+
+}
+/* Body Content */
+
+/* Form Content */
+
+.loginForm{
+
+float: right;
+border: 2px solid blue;
+background-color: rgb(127, 255, 133);
+margin-right: 5%;
+padding-left: 15px;
+padding-right: 15px;
+
+}
+
+.userloginform{
+
+font-size: 15px;
+font-weight: bold;
+text-align: center;
+
+}
+
+.userContent{
+
+font-size: 12px;
+font-weight: bold;
+
+}
+
+.signUp h6{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-small;
+    font-weight: bold;
+}
+
+.signUp a{
+
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-small;
+    font-weight: bolder;
+}
+
+/* Form Content */
+
+/* District Content */
+
+.districts-content{
+
+/* border: 2px solid red; */
+margin-left: 3%;
+margin-bottom: 10%;
+margin-right: 3%;
+padding-top: 1%;
+padding-bottom: 1%;
+
+}
+
+.p-Box{
+
+border: 1px solid blue;
+background-color: rgb(131, 255, 127);
+width: 19%;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: xx-small;
+float: left;
+margin-left: 5px;
+height: 22em;
+padding: 2px;
+
+}
+
+.p-Box h6{
+
+    text-align: center;
+}
+
+.p-Box p{
+
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    text-align: justify;
+
+ }
+
+ .p-Box a{
+
+    text-decoration: none;
+ }
+/* District Content */
+
+.myMargin{
+
+    margin: 25px
+
+}
